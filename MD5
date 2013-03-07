@@ -1,0 +1,13 @@
+665b9724ed4bcbb1cebab64b9ab66bd9 *DESCRIPTION
+36ba3515843b8e67cad9b1f94f5066e4 *NAMESPACE
+7691eed55f59ee90fb684441380390bd *R/1_rawFasta-class.R
+67bcd515fb001e4df7411bf3a2bce47b *R/2_extract.R
+256a9ea9e502804874d92315db4e4f21 *R/rawFasta.r
+36c2b1061594d61801747adc0e70c129 *inst/extdata/binary.fa
+8e52a578e90de70caaa522bb2060e872 *inst/extdata/dna.fa
+f77d4f6a8812a566f9543b0836fbeb53 *man/extract.Rd
+fc0ab6c5e4a38b2c3a2a192ba09d7001 *man/rawFasta-class.Rd
+fe40f3a09cb342f9a2c96e4d258e24d1 *man/rawFasta.8-class.Rd
+275002a652c4933ddaaee9b35459e1d8 *man/rawFasta.Rd
+c6d41651c0f4e935ac374e8aa3502536 *man/rawFasta.dl-class.Rd
+8a376b8db11d00dd127cbd052da2198a *man/rawFasta.sl-class.Rd

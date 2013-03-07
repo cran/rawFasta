@@ -1,0 +1,12 @@
+# Interface and classes
+exportClasses(rawFasta, rawFasta.8, rawFasta.sl, rawFasta.dl)
+
+# Methods for external generics
+exportMethods(show)
+
+# New generics and associated methods
+export(extract)
+
+# Constructor
+export(rawFasta)
+
